@@ -1,0 +1,2 @@
+//wap to find palindrome
+
